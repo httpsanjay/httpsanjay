@@ -14,10 +14,10 @@ I'm a **B.Tech Computer Science student** at CMR University, Bengaluru, with a b
 
 That mix shows up in what I build now — systems that live at the boundary between physical devices and the backends that talk to them.
 
-- 🔭 Currently building **IoTMag** — a full-stack IoT device management platform (Django, PostgreSQL, ESP32, MQTT)
-- ⚡ Comfortable across the stack: embedded firmware → backend APIs → dashboards
-- 🌱 Currently exploring distributed systems and broader backend/systems engineering
-- 💬 Ask me about embedded systems, IoT architectures, Django, or industrial automation
+- Currently building **IoTMag** — a full-stack IoT device management platform (Django, PostgreSQL, ESP32, MQTT)
+- Comfortable across the stack: embedded firmware → backend APIs → dashboards
+- Currently exploring distributed systems and broader backend/systems engineering
+- Ask me about embedded systems, IoT architectures, Django, or industrial automation
 
 ---
 
